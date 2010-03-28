@@ -1,0 +1,27 @@
+#
+# The two letter codes are defined by ISO 639-1
+# http://en.wikipedia.org/wiki/List_of_ISO_639_codes
+
+BOXEE
+	EN	Boxee
+
+SendKey(0xf01b)
+	EN	Menu
+SendKey(0xf00d)
+	EN	Select
+SendKey(270)
+	EN	Up
+SendKey(271)
+	EN	Down
+SendKey(272)
+	EN	Left
+SendKey(273)
+	EN	Right
+SendKey(274)
+	EN	Back
+
+Pause
+	EN	Pause
+Stop
+	EN	Stop
+

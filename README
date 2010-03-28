@@ -1,0 +1,15 @@
+Abstract:
+Genesis of a project to give me remote control of Boxee using the SqueezeBoxController (SBC).
+
+Design:
+At this point just a brute-force access to a single running Boxee instance.  IP and ports are hard-coded as well as username and passwords.
+
+Testing:
+Only tried on the SqueezePlay so far, no testing on device hardware.
+
+Future:
+Discovery
+New UI on the device split amongst the content types being managed
+A play sub-menu for controlling playback only/separately
+Using the scroll wheel and other dedciated control buttons to control the remote interface ???
+More commands
