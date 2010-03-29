@@ -31,7 +31,7 @@ function defaultSettings(meta)
 end
  
 function registerApplet(meta)
-    jiveMain:addItem(meta:menuItem('boxeeApplet', 'home', "BOXEE", function(applet, ...) applet:boxee(...) end, 50))
+    jiveMain:addItem(meta:menuItem('boxeeApplet', 'extras', "BOXEE", function(applet, ...) applet:boxee(...) end, 50))
 end
 --[[
 
